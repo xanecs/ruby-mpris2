@@ -2,6 +2,7 @@ require 'mpris2/mediaplayer2/root'
 require 'mpris2/mediaplayer2/player'
 require 'mpris2/mediaplayer2/tracklist'
 require 'mpris2/mediaplayer2/properties'
+require 'mpris2/mediaplayer2/playlists'
 
 class MPRIS2
 
